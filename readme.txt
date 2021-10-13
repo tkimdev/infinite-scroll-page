@@ -7,7 +7,6 @@ Technologies Used:
 + CSS3
 + Vanilla JavaScript 
 
-
 Learned: 
 + Custom Loading Animation with Loading.io 
 + Infinite Scroll Functionality 
