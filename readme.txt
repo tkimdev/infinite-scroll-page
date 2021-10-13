@@ -16,4 +16,3 @@ Learned:
 + Click Image to navigate to Image Source 
 + Mobile Responsive 
 
-
