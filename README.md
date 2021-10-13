@@ -2,6 +2,8 @@
 
 A Infinite Scroll Page for Photography Lovers 📷
 
+### [Live Site](https://tonykimdev.github.io/infinite-scroll-page/)
+
 Technologies Used: 
 + HTML5 
 + CSS3
