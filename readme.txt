@@ -1,4 +1,4 @@
-#infinite-scroll-page 
+# infinite-scroll-page 
 
 A Infinite Scroll Page for Photography Lovers 
 
