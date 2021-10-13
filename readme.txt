@@ -15,4 +15,3 @@ Learned:
 + Hover Image to see Description of Image 
 + Click Image to navigate to Image Source 
 + Mobile Responsive 
-
