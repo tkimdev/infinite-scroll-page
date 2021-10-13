@@ -1,12 +1,12 @@
 # infinite-scroll-page
 
-A Infinite Scroll Page for Photography Lovers 
+A Infinite Scroll Page for Photography Lovers 📷
 
 Technologies Used: 
 + HTML5 
 + CSS3
 + Vanilla JavaScript 
-
+ 
 Learned: 
 + Custom Loading Animation with Loading.io 
 + Infinite Scroll Functionality 
